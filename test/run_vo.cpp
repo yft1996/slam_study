@@ -3,8 +3,7 @@
 #include <boost/timer.hpp>
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui/highgui.hpp>
-#include <opencv2/viz.hpp> 
-#include <opencv2/>
+#include <opencv2/viz.hpp>
 
 #include "myslam/config.h"
 #include "myslam/visual_odometry.h"
